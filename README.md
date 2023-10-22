@@ -5,7 +5,7 @@ Abaixo é uma linha
 ---
 abaixo é outra linha 
 ***
-**Este é um texto em negrito** | *Este é um texto em italico* | *__Este é um texto em italico e negrito__*
+**Este é um texto em negrito** | *Este é um texto em italico* | *__Este é um texto em italico e negrito__* | ~~Está é uma linha Riscada (strike)~~
 ___
 Abaixo é uma lista numerada
 1. Teste
